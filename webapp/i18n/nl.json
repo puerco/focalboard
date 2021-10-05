@@ -39,6 +39,7 @@
   "DashboardPage.CenterPanel.NoWorkspaces": "Sorry, we konden geen kanalen vinden die aan deze term voldoen",
   "DashboardPage.CenterPanel.NoWorkspacesDescription": "Probeer op een andere term te zoeken",
   "DashboardPage.showEmpty": "Leeg tonen",
+  "DashboardPage.message": "Gebruik Focalboard om taken te creëren en bij te houden voor grote en kleine projecten met behulp van bekende Kanban-borden, tabellen en andere weergaven.",
   "DashboardPage.title": "Dashboard",
   "Dialog.closeDialog": "Dialoogvenster sluiten",
   "EditableDayPicker.today": "Vandaag",
